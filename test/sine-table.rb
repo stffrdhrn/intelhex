@@ -1,5 +1,7 @@
 #!/usr/bin/env ruby
 
+# Generate a sine wave in hex, for use as testing input
+
 amplitude = 127
 offset = 127
 samples = 100
