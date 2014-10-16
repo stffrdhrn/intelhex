@@ -1,6 +1,6 @@
 # _Ruby Intel Hex Creator_
 
-_Description: _ 
+_Description:_ 
 
 Very simple utility for creating a index hex formatted file. 
 Intel hex is used for uploading data into hardware roms like
@@ -16,10 +16,10 @@ Each line outputted contains:
  - Data  
  - Checksum    (2 bytes)
 
-## TODO
+### TODO
 
-## Project Setup
+### Project Setup
 Its just a script, use it where you want. 
 
-## License
+### License
 BSD
